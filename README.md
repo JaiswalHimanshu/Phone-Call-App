@@ -41,3 +41,4 @@ java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
 ```
 
 - After the replacement dont forget to restart the **Phone call application**
+- Also each project folder contains its own **README.md file**
